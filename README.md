@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I am Shahriar Ahmmed
+#### I am a dedicated front-end developer passionate about crafting seamless and visually stunning user experiences. Proficient in HTML, CSS, JavaScript, React and I specialize in transforming design concepts into responsive and interactive websites. Committed to staying current with industry trends.
 
 ### 📑 Skills :
 - Expertise: HTML5 | CSS3 | Tailwind CSS | Daisy UI
