@@ -8,7 +8,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarZe&theme=nightowl)
 
 ## Technologies That I use :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4)](https://skillicons.dev)
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4)](https://skillicons.dev)
+</div>
 
 Here are some ideas to get you started:
 
