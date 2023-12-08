@@ -3,6 +3,8 @@
 
 ![Shahriar Banner](https://raw.githubusercontent.com/ShahriarZe/ShahriarZe/main/GitBanner.png)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahriarZe&theme=nightowl)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
