@@ -1,7 +1,7 @@
 ### Hi there 👋
+## I am Shahriar Ahmmed
 
-<!--
-**ShahriarZe/ShahriarZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Shahriar Banner](https://raw.githubusercontent.com/ShahriarZe/ShahriarZe/main/GitBanner.png)
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
