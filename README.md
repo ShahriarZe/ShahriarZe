@@ -20,7 +20,7 @@
 ## 💻 Technologies That I use :
  <div align="center">
   <a href="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express,netlify,vercel,git,github&perline=4" alt="Technologies">
   </a>
 </div>
 
