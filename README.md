@@ -1,6 +1,14 @@
 ### Hi there 👋
 ## I am Shahriar Ahmmed
 
+### Skills
+- Expertise: HTML5 | CSS3 | Tailwind CSS | Daisy UI
+- Comfortable: React JS | Javascript |ES6
+- Familiar: Next JS | Express JS | MongoDB | JWT | API
+- Tools: Github | Firebase | Netlify | Vercel | VS Code
+- Interpersonal Skills: Communication | Team Work | Leadership
+
+
 ![Shahriar Banner](https://raw.githubusercontent.com/ShahriarZe/ShahriarZe/main/GitBanner.png)
 
 ## Current Stats:
