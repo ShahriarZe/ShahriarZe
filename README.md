@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Shahriar Ahmmed 🇧🇩
+## I am Shahriar Ahmmed
 
 ### 📑 Skills :
 - Expertise: HTML5 | CSS3 | Tailwind CSS | Daisy UI
@@ -16,7 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahriarZe&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarZe&theme=nightowl)
 
-## 💻: Technologies That I use :
+## 💻 Technologies That I use :
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4)](https://skillicons.dev)
 
 ## 📋 Current Overview : 
