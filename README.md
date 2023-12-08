@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Shahriar Ahmmed
 
-### Skills
+### Skills :
 - Expertise: HTML5 | CSS3 | Tailwind CSS | Daisy UI
 - Comfortable: React JS | Javascript |ES6
 - Familiar: Next JS | Express JS | MongoDB | JWT | API
