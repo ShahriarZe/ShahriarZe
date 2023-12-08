@@ -19,4 +19,11 @@
 ## Technologies That I use :
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4)](https://skillicons.dev)
 
+## Current Overview : 
+- 🔭 I’m exporing - Next JS and Redux
+- 🌱 I’m currently Seeking - a position within a dynamic team to spearhead advancements in web development
+- 💬 Ask me about - Front End design tools & techniques
+- 👯 I’m looking - to collaborate on E-Commerce projects
+
+
 
