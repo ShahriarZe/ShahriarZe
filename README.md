@@ -3,6 +3,7 @@
 
 ![Shahriar Banner](https://raw.githubusercontent.com/ShahriarZe/ShahriarZe/main/GitBanner.png)
 
+## Current Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahriarZe&theme=nightowl) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahriarZe&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarZe&theme=nightowl)
