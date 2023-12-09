@@ -15,9 +15,10 @@
 ## 💻 Current Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahriarZe&theme=nightowl) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahriarZe&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahriarZe&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarZe&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahriarZe&theme=nightowl&utcOffset=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahriarZe&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 
 ## 💻 Technologies That I use :
  <div align="center">
