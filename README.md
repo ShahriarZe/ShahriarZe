@@ -17,6 +17,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahriarZe&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarZe&theme=nightowl)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahriarZe&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
+
 ## 💻 Technologies That I use :
  <div align="center">
   <a href="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,mongodb,express&perline=4">
