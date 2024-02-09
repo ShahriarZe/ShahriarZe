@@ -27,11 +27,6 @@
   </a>
 </div>
 
-## 📋 Current Overview : 
-- 🔭 I’m exploring - Next JS and Redux
-- 🌱 I’m currently Seeking - a position within a dynamic team to spearhead advancements in web development
-- 💬 Ask me about - Front End design tools & techniques
-- 👯 I’m looking - to collaborate on E-Commerce projects
 
 
 
